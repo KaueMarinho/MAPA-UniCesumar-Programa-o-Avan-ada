@@ -74,15 +74,15 @@ Olá, Lucas!
 
 Mais uma etapa do seu aprendizado em curso, venha entender como seu MAPA foi avaliado nesta disciplina.
 
-Nota / Valor    Descrição dos critérios:
+Nota  Valor    Descrição dos critérios:
 
-0.50 / 0.50      1. Criou os Forms para os dados necessários(Campo Text)
-0.50 / 0.50      2. Tabela de tipo de Doença Relatada(Campo Select)
-0.60 / 0.60      3. Regra de conversão de datas
-0.70 / 0.70      4. O Modelo segue o formato solicitado
-0.70 / 0.70      5. Apresentou o atestado corretamente
+0.50 - 0.50      1. Criou os Forms para os dados necessários(Campo Text)
+0.50 - 0.50      2. Tabela de tipo de Doença Relatada(Campo Select)
+0.60 - 0.60      3. Regra de conversão de datas
+0.70 - 0.70      4. O Modelo segue o formato solicitado
+0.70 - 0.70      5. Apresentou o atestado corretamente
 -----------
-3.00 / 3.00      Nota final
+3.00 - 3.00      Nota final
 
 Parabéns, você conseguiu atingir todos os itens desejados nesta atividade. Continue assim e seu aprendizado será cada vez melhor.
 
