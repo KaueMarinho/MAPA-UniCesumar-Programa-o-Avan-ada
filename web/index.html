@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>Atestador versão 3000.1</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div><h1>Dados do Atestado</h1></div>
+        <form action="ProcessarMensagem" method="post" name="mensagem">
+            <div>
+                <label> Nome do Médico </label>
+                <input type="text" name="nomeMedico">
+            </div>
+            <div>
+                <label>Nome do Paciente</label>
+                <input type="text" name="nomePaciente">
+            </div>
+            <div>
+                <label>Endereço do Paciente</label>
+                <input type="text" name="enderecoPaciente">
+            </div>
+            <div>
+                <label>Cidade do Paciente</label>
+                <input type="text" name="cidadePaciente">
+            </div>
+            <div>
+                <label>Tipo de Doença Relatada</label>
+                <select name="doencaRelatada">
+                    <option value="febre">Febre</option>
+                    <option value="dorCorpo">Dor no corpo</option>
+                    <option value="tontura">Tontura</option>
+                    <option value="pernaQuebrada">Perna Quebrada</option>
+                    <option value="dorColuna">Dor na Coluna</option>
+                </select>
+            </div>
+            <input type="submit" value="OK">
+        </form>
+    </body>
+</html>
